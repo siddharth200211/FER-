@@ -24,3 +24,9 @@ train_model.py: Python script for training machine learning models using scikit-
 test_model.py: Python script for testing the trained models on new data.
 
 utils.py: Python module containing utility functions used across the project.
+![Screenshot 2024-04-23 105736](https://github.com/user-attachments/assets/cf049640-dbb0-4928-aff4-e11108765d20)
+![Screenshot 2024-04-23 110634](https://github.com/user-attachments/assets/4d1852d0-344e-4a17-888f-d0b5b7b31f99)
+
+
+
+
